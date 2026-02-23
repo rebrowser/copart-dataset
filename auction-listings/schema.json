@@ -59,21 +59,21 @@
     "name": "saleDate",
     "type": "datetime",
     "description": "Scheduled auction sale date",
-    "fillRate": 86,
+    "fillRate": 87,
     "premium": false
   },
   {
     "name": "saleDayOfWeek",
     "type": "string",
     "description": "Day of week for the auction (e.g., TUESDAY, FRIDAY)",
-    "fillRate": 86,
+    "fillRate": 87,
     "premium": false
   },
   {
     "name": "saleTime",
     "type": "string",
     "description": "Auction start time in HHMM format (e.g., \"1000\" = 10:00 AM)",
-    "fillRate": 86,
+    "fillRate": 87,
     "premium": false
   },
   {
@@ -346,7 +346,7 @@
     "name": "trim",
     "type": "string",
     "description": "Vehicle trim level (e.g., SV, EX, LUXE, AMG 53 4MATIC)",
-    "fillRate": 89,
+    "fillRate": 88,
     "premium": false
   },
   {
