@@ -346,7 +346,7 @@
     "name": "trim",
     "type": "string",
     "description": "Vehicle trim level (e.g., SV, EX, LUXE, AMG 53 4MATIC)",
-    "fillRate": 88,
+    "fillRate": 82,
     "premium": false
   },
   {
