@@ -129,7 +129,7 @@
     "name": "bodyStyle",
     "type": "string",
     "description": "Vehicle body style",
-    "fillRate": 21,
+    "fillRate": 22,
     "premium": false
   },
   {
