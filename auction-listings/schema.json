@@ -59,21 +59,21 @@
     "name": "saleDate",
     "type": "datetime",
     "description": "Scheduled auction sale date",
-    "fillRate": 91,
+    "fillRate": 92,
     "premium": false
   },
   {
     "name": "saleDayOfWeek",
     "type": "string",
     "description": "Day of week for the auction (e.g., TUESDAY, FRIDAY)",
-    "fillRate": 91,
+    "fillRate": 92,
     "premium": false
   },
   {
     "name": "saleTime",
     "type": "string",
     "description": "Auction start time in HHMM format (e.g., \"1000\" = 10:00 AM)",
-    "fillRate": 91,
+    "fillRate": 92,
     "premium": false
   },
   {
@@ -129,7 +129,7 @@
     "name": "bodyStyle",
     "type": "string",
     "description": "Vehicle body style",
-    "fillRate": 29,
+    "fillRate": 31,
     "premium": false
   },
   {
@@ -220,7 +220,7 @@
     "name": "drivetrain",
     "type": "string",
     "description": "Drivetrain type (All wheel drive, Front-wheel Drive, Rear-wheel drive)",
-    "fillRate": 98,
+    "fillRate": 97,
     "premium": false
   },
   {
@@ -234,7 +234,7 @@
     "name": "fuelType",
     "type": "string",
     "description": "Fuel type (e.g., GAS)",
-    "fillRate": 99,
+    "fillRate": 98,
     "premium": false
   },
   {
@@ -269,7 +269,7 @@
     "name": "specialNote",
     "type": "string",
     "description": "Special notes (e.g., \"ODOMETER IS IN KILOMETERS\")",
-    "fillRate": 3,
+    "fillRate": 4,
     "premium": false
   },
   {
