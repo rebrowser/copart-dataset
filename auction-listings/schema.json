@@ -129,7 +129,7 @@
     "name": "bodyStyle",
     "type": "string",
     "description": "Vehicle body style",
-    "fillRate": 33,
+    "fillRate": 34,
     "premium": false
   },
   {
@@ -346,7 +346,7 @@
     "name": "trim",
     "type": "string",
     "description": "Vehicle trim level (e.g., SV, EX, LUXE, AMG 53 4MATIC)",
-    "fillRate": 78,
+    "fillRate": 79,
     "premium": false
   },
   {
