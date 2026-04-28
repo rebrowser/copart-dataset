@@ -367,7 +367,7 @@
     "name": "sellerName",
     "type": "string",
     "description": "Seller name (e.g., \"State Farm Insurance\", \"GEICO\")",
-    "fillRate": 36,
+    "fillRate": 35,
     "premium": true
   },
   {
@@ -402,7 +402,7 @@
     "name": "saleLight",
     "type": "string",
     "description": "Sale light indicator",
-    "fillRate": 2,
+    "fillRate": 1,
     "premium": false
   },
   {
