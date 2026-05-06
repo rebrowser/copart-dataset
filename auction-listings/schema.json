@@ -402,7 +402,7 @@
     "name": "saleLight",
     "type": "string",
     "description": "Sale light indicator",
-    "fillRate": 1,
+    "fillRate": 2,
     "premium": false
   },
   {
