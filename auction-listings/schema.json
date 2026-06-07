@@ -129,7 +129,7 @@
     "name": "bodyStyle",
     "type": "string",
     "description": "Vehicle body style",
-    "fillRate": 42,
+    "fillRate": 44,
     "premium": false
   },
   {
@@ -150,7 +150,7 @@
     "name": "secondaryDamage",
     "type": "string",
     "description": "Secondary damage description (e.g., SIDE, REAR END)",
-    "fillRate": 43,
+    "fillRate": 44,
     "premium": false
   },
   {
