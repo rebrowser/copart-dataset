@@ -59,21 +59,21 @@
     "name": "saleDate",
     "type": "datetime",
     "description": "Scheduled auction sale date",
-    "fillRate": 90,
+    "fillRate": 89,
     "premium": false
   },
   {
     "name": "saleDayOfWeek",
     "type": "string",
     "description": "Day of week for the auction (e.g., TUESDAY, FRIDAY)",
-    "fillRate": 90,
+    "fillRate": 89,
     "premium": false
   },
   {
     "name": "saleTime",
     "type": "string",
     "description": "Auction start time in HHMM format (e.g., \"1000\" = 10:00 AM)",
-    "fillRate": 90,
+    "fillRate": 89,
     "premium": false
   },
   {
@@ -129,7 +129,7 @@
     "name": "bodyStyle",
     "type": "string",
     "description": "Vehicle body style",
-    "fillRate": 47,
+    "fillRate": 48,
     "premium": false
   },
   {
@@ -213,7 +213,7 @@
     "name": "engine",
     "type": "string",
     "description": "Engine description (e.g., \"3.5L 6\", \"2.0L 4\")",
-    "fillRate": 97,
+    "fillRate": 96,
     "premium": false
   },
   {
