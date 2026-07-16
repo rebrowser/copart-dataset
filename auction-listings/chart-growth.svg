@@ -67,10 +67,10 @@
           rx="1" fill="#22c55eb3" />
   <rect x="779" y="102" width="28" height="138"
           rx="1" fill="#22c55eb3" />
-  <rect x="809" y="239" width="28" height="1"
+  <rect x="809" y="205" width="28" height="35"
           rx="1" fill="#22c55eb3" />
   <!-- line (Total, left axis) -->
-  <polyline points="73,240 103,233 133,223 163,214 193,205 223,196 253,187 283,179 313,170 343,162 373,154 403,147 433,139 463,131 493,123 523,115 553,108 583,100 613,94 643,87 673,79 703,71 733,64 763,58 793,50 823,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+  <polyline points="73,240 103,233 133,223 163,214 193,205 223,197 253,188 283,179 313,171 343,163 373,155 403,147 433,140 463,132 493,124 523,117 553,109 583,102 613,95 643,89 673,80 703,73 733,66 763,60 793,52 823,50" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
   <!-- left y-axis labels (Total) -->
   <text x="52" y="56" text-anchor="end"
            font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="10" fill="#586069"
