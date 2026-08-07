@@ -227,7 +227,7 @@
     "name": "transmission",
     "type": "string",
     "description": "Transmission type (e.g., AUTOMATIC)",
-    "fillRate": 98,
+    "fillRate": 99,
     "premium": false
   },
   {
