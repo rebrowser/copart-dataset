@@ -129,7 +129,7 @@
     "name": "bodyStyle",
     "type": "string",
     "description": "Vehicle body style",
-    "fillRate": 62,
+    "fillRate": 63,
     "premium": false
   },
   {
@@ -178,7 +178,7 @@
     "name": "lotCondCode",
     "type": "string",
     "description": "Lot condition code (D = Drivable, E = Enhanced inspection, S = Stationary)",
-    "fillRate": 96,
+    "fillRate": 97,
     "premium": false
   },
   {
