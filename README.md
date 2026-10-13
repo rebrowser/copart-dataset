@@ -1,6 +1,6 @@
 # Copart Salvage Vehicle Auction Dataset
 
-![Updated](https://img.shields.io/badge/updated-2026--10--12-brightgreen?style=flat-square)&nbsp;![Records](https://img.shields.io/badge/records-3.1M-blue?style=flat-square)&nbsp;[![Rebrowser](https://img.shields.io/badge/full%20dataset-rebrowser.net-orange?style=flat-square)](https://rebrowser.net/products/datasets/copart)
+![Updated](https://img.shields.io/badge/updated-2026--10--13-brightgreen?style=flat-square)&nbsp;![Records](https://img.shields.io/badge/records-3.1M-blue?style=flat-square)&nbsp;[![Rebrowser](https://img.shields.io/badge/full%20dataset-rebrowser.net-orange?style=flat-square)](https://rebrowser.net/products/datasets/copart)
 
 Salvage vehicle auction listings with damage assessments, condition grades, title status, and yard locations from Copart's nationwide network.
 
@@ -21,7 +21,7 @@ Daily sample of Copart salvage auction lots with damage types, condition codes, 
 
 
 
-> **3,066,785** total records from 2025-11-16 to 2026-10-04, **up to 30,000** rows in this sample (0.98% of full dataset).
+> **3,067,438** total records from 2025-11-16 to 2026-10-11, **up to 30,000** rows in this sample (0.98% of full dataset).
 > Exported as one file per day, up to 1,000 rows each, last 30 days retained.
 
 ![Data Growth](auction-listings/chart-growth.svg)
@@ -105,16 +105,16 @@ Daily sample of Copart salvage auction lots with damage types, condition codes, 
 
 | Value | Count | Share |
 | --- | --- | --- |
-| TOYOTA | 393,340 | `████░░░░░░░░░░░░░░░░` 18.4% |
-| FORD | 344,407 | `███░░░░░░░░░░░░░░░░░` 16.1% |
-| CHEVROLET | 300,829 | `███░░░░░░░░░░░░░░░░░` 14.0% |
-| HONDA | 284,957 | `███░░░░░░░░░░░░░░░░░` 13.3% |
-| NISSAN | 233,878 | `██░░░░░░░░░░░░░░░░░░` 10.9% |
-| HYUNDAI | 170,179 | `██░░░░░░░░░░░░░░░░░░` 7.9% |
-| KIA | 136,166 | `█░░░░░░░░░░░░░░░░░░░` 6.4% |
-| JEEP | 110,372 | `█░░░░░░░░░░░░░░░░░░░` 5.1% |
-| DODGE | 88,729 | `█░░░░░░░░░░░░░░░░░░░` 4.1% |
-| SUBARU | 80,679 | `█░░░░░░░░░░░░░░░░░░░` 3.8% |
+| TOYOTA | 393,420 | `████░░░░░░░░░░░░░░░░` 18.3% |
+| FORD | 344,482 | `███░░░░░░░░░░░░░░░░░` 16.1% |
+| CHEVROLET | 300,891 | `███░░░░░░░░░░░░░░░░░` 14.0% |
+| HONDA | 285,018 | `███░░░░░░░░░░░░░░░░░` 13.3% |
+| NISSAN | 233,935 | `██░░░░░░░░░░░░░░░░░░` 10.9% |
+| HYUNDAI | 170,218 | `██░░░░░░░░░░░░░░░░░░` 7.9% |
+| KIA | 136,201 | `█░░░░░░░░░░░░░░░░░░░` 6.4% |
+| JEEP | 110,394 | `█░░░░░░░░░░░░░░░░░░░` 5.1% |
+| DODGE | 88,753 | `█░░░░░░░░░░░░░░░░░░░` 4.1% |
+| SUBARU | 80,692 | `█░░░░░░░░░░░░░░░░░░░` 3.8% |
 
 </details>
 
@@ -125,16 +125,16 @@ Daily sample of Copart salvage auction lots with damage types, condition codes, 
 
 | Value | Count | Share |
 | --- | --- | --- |
-| FRONT END | 1,585,168 | `███████████░░░░░░░░░` 54.3% |
-| REAR END | 459,207 | `███░░░░░░░░░░░░░░░░░` 15.7% |
-| SIDE | 396,695 | `███░░░░░░░░░░░░░░░░░` 13.6% |
-| MINOR DENT/SCRATCHES | 147,056 | `█░░░░░░░░░░░░░░░░░░░` 5.0% |
-| MECHANICAL | 88,968 | `█░░░░░░░░░░░░░░░░░░░` 3.0% |
-| NORMAL WEAR | 60,820 | `░░░░░░░░░░░░░░░░░░░░` 2.1% |
-| ALL OVER | 53,244 | `░░░░░░░░░░░░░░░░░░░░` 1.8% |
-| HAIL | 50,264 | `░░░░░░░░░░░░░░░░░░░░` 1.7% |
-| ROLLOVER | 43,038 | `░░░░░░░░░░░░░░░░░░░░` 1.5% |
-| UNDERCARRIAGE | 35,789 | `░░░░░░░░░░░░░░░░░░░░` 1.2% |
+| FRONT END | 1,585,505 | `███████████░░░░░░░░░` 54.3% |
+| REAR END | 459,328 | `███░░░░░░░░░░░░░░░░░` 15.7% |
+| SIDE | 396,771 | `███░░░░░░░░░░░░░░░░░` 13.6% |
+| MINOR DENT/SCRATCHES | 147,074 | `█░░░░░░░░░░░░░░░░░░░` 5.0% |
+| MECHANICAL | 88,978 | `█░░░░░░░░░░░░░░░░░░░` 3.0% |
+| NORMAL WEAR | 60,835 | `░░░░░░░░░░░░░░░░░░░░` 2.1% |
+| ALL OVER | 53,253 | `░░░░░░░░░░░░░░░░░░░░` 1.8% |
+| HAIL | 50,273 | `░░░░░░░░░░░░░░░░░░░░` 1.7% |
+| ROLLOVER | 43,051 | `░░░░░░░░░░░░░░░░░░░░` 1.5% |
+| UNDERCARRIAGE | 35,799 | `░░░░░░░░░░░░░░░░░░░░` 1.2% |
 
 </details>
 
@@ -145,16 +145,16 @@ Daily sample of Copart salvage auction lots with damage types, condition codes, 
 
 | Value | Count | Share |
 | --- | --- | --- |
-| SC | 923,631 | `███████░░░░░░░░░░░░░` 33.6% |
-| ST | 759,372 | `██████░░░░░░░░░░░░░░` 27.6% |
-| CT | 481,027 | `███░░░░░░░░░░░░░░░░░` 17.5% |
-| SV | 180,758 | `█░░░░░░░░░░░░░░░░░░░` 6.6% |
-| RB | 129,826 | `█░░░░░░░░░░░░░░░░░░░` 4.7% |
-| SM | 71,372 | `█░░░░░░░░░░░░░░░░░░░` 2.6% |
-| BS | 61,549 | `░░░░░░░░░░░░░░░░░░░░` 2.2% |
-| S1 | 53,665 | `░░░░░░░░░░░░░░░░░░░░` 1.9% |
-| RS | 49,081 | `░░░░░░░░░░░░░░░░░░░░` 1.8% |
-| CD | 42,589 | `░░░░░░░░░░░░░░░░░░░░` 1.5% |
+| SC | 923,916 | `███████░░░░░░░░░░░░░` 33.6% |
+| ST | 759,417 | `██████░░░░░░░░░░░░░░` 27.6% |
+| CT | 481,078 | `███░░░░░░░░░░░░░░░░░` 17.5% |
+| SV | 180,781 | `█░░░░░░░░░░░░░░░░░░░` 6.6% |
+| RB | 129,945 | `█░░░░░░░░░░░░░░░░░░░` 4.7% |
+| SM | 71,383 | `█░░░░░░░░░░░░░░░░░░░` 2.6% |
+| BS | 61,552 | `░░░░░░░░░░░░░░░░░░░░` 2.2% |
+| S1 | 53,668 | `░░░░░░░░░░░░░░░░░░░░` 1.9% |
+| RS | 49,089 | `░░░░░░░░░░░░░░░░░░░░` 1.8% |
+| CD | 42,625 | `░░░░░░░░░░░░░░░░░░░░` 1.5% |
 
 </details>
 
@@ -165,16 +165,16 @@ Daily sample of Copart salvage auction lots with damage types, condition codes, 
 
 | Value | Count | Share |
 | --- | --- | --- |
-| CA | 298,952 | `████░░░░░░░░░░░░░░░░` 19.5% |
-| TX | 269,780 | `████░░░░░░░░░░░░░░░░` 17.6% |
-| FL | 203,091 | `███░░░░░░░░░░░░░░░░░` 13.3% |
-| PA | 137,031 | `██░░░░░░░░░░░░░░░░░░` 8.9% |
-| IL | 134,836 | `██░░░░░░░░░░░░░░░░░░` 8.8% |
-| GA | 120,379 | `██░░░░░░░░░░░░░░░░░░` 7.9% |
-| NY | 104,620 | `█░░░░░░░░░░░░░░░░░░░` 6.8% |
-| MI | 93,949 | `█░░░░░░░░░░░░░░░░░░░` 6.1% |
-| NC | 85,559 | `█░░░░░░░░░░░░░░░░░░░` 5.6% |
-| TN | 83,980 | `█░░░░░░░░░░░░░░░░░░░` 5.5% |
+| CA | 298,957 | `████░░░░░░░░░░░░░░░░` 19.5% |
+| TX | 269,833 | `████░░░░░░░░░░░░░░░░` 17.6% |
+| FL | 203,234 | `███░░░░░░░░░░░░░░░░░` 13.3% |
+| PA | 137,032 | `██░░░░░░░░░░░░░░░░░░` 8.9% |
+| IL | 134,868 | `██░░░░░░░░░░░░░░░░░░` 8.8% |
+| GA | 120,393 | `██░░░░░░░░░░░░░░░░░░` 7.9% |
+| NY | 104,655 | `█░░░░░░░░░░░░░░░░░░░` 6.8% |
+| MI | 93,960 | `█░░░░░░░░░░░░░░░░░░░` 6.1% |
+| NC | 85,585 | `█░░░░░░░░░░░░░░░░░░░` 5.6% |
+| TN | 83,984 | `█░░░░░░░░░░░░░░░░░░░` 5.5% |
 
 </details>
 
@@ -193,23 +193,23 @@ Rebrowser web viewer lets you filter, sort, and export any slice of this dataset
 ### Auction Listings
 
 
-[Listings with Bid Over $1,000](https://rebrowser.net/products/datasets/copart/auction-listings/views/listings-with-bid-over-1000) — 644,554 records
+[Listings with Bid Over $1,000](https://rebrowser.net/products/datasets/copart/auction-listings/views/listings-with-bid-over-1000) — 645,592 records
 
 ↳ `[{"field":"highBid","op":"gt","value":1000},{"sort":"highBid DESC"}]`
 
-[Salvage Title Auctions](https://rebrowser.net/products/datasets/copart/auction-listings/views/salvage-title-auctions) — 730,990 records
+[Salvage Title Auctions](https://rebrowser.net/products/datasets/copart/auction-listings/views/salvage-title-auctions) — 730,994 records
 
 ↳ `[{"field":"saleTitleType","op":"is","value":"ST"},{"sort":"saleDate ASC"}]`
 
-[Run and Drive Vehicles](https://rebrowser.net/products/datasets/copart/auction-listings/views/run-and-drive-vehicles) — 1,933,842 records
+[Run and Drive Vehicles](https://rebrowser.net/products/datasets/copart/auction-listings/views/run-and-drive-vehicles) — 1,933,972 records
 
 ↳ `[{"field":"lotCondCode","op":"is","value":"D"},{"sort":"estRetailValue DESC"}]`
 
-[Listings with Estimated Value Over $10,000](https://rebrowser.net/products/datasets/copart/auction-listings/views/listings-valued-over-10000) — 1,460,269 records
+[Listings with Estimated Value Over $10,000](https://rebrowser.net/products/datasets/copart/auction-listings/views/listings-valued-over-10000) — 1,460,798 records
 
 ↳ `[{"field":"estRetailValue","op":"gt","value":10000},{"sort":"estRetailValue DESC"}]`
 
-[Make-an-Offer Eligible Lots](https://rebrowser.net/products/datasets/copart/auction-listings/views/make-offer-eligible-lots) — 299,655 records
+[Make-an-Offer Eligible Lots](https://rebrowser.net/products/datasets/copart/auction-listings/views/make-offer-eligible-lots) — 299,659 records
 
 ↳ `[{"field":"makeOfferEligible","op":"isTrue"},{"sort":"_lastSeenAt DESC"}]`
 
