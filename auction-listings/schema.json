@@ -234,7 +234,7 @@
     "name": "fuelType",
     "type": "string",
     "description": "Fuel type (e.g., GAS)",
-    "fillRate": 98,
+    "fillRate": 97,
     "premium": false
   },
   {
