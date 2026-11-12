@@ -129,7 +129,7 @@
     "name": "bodyStyle",
     "type": "string",
     "description": "Vehicle body style",
-    "fillRate": 65,
+    "fillRate": 66,
     "premium": false
   },
   {
@@ -269,7 +269,7 @@
     "name": "specialNote",
     "type": "string",
     "description": "Special notes (e.g., \"ODOMETER IS IN KILOMETERS\")",
-    "fillRate": 4,
+    "fillRate": 3,
     "premium": false
   },
   {
